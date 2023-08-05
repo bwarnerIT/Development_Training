@@ -16,7 +16,7 @@ In this lesson, we will cover the basics of using Unity 2021.3 Editor and integr
 ### Lesson Outline
 
 #### 1. Unity 2021.3 Editor Interface
-- Unity Editor overview[2]
+- Unity Editor overview[ [2]](https://learn.unity.com/tutorial/explore-the-unity-editor-1)
 - Navigating the Unity interface
   - Scene view
   - Game view
@@ -30,14 +30,14 @@ In this lesson, we will cover the basics of using Unity 2021.3 Editor and integr
 - Importing assets
 
 #### 3. Integrating Unity with Visual Studio 2019
-- Unity's Visual Studio integration[3]
+- Unity's Visual Studio integration[ [3]](https://docs.unity3d.com/Manual/VisualStudioIntegration.html)
 - Installing the Code Editor Package for Visual Studio
-- Setting Visual Studio as the default script editor[3]
+- Setting Visual Studio as the default script editor[ [3]](https://docs.unity3d.com/Manual/VisualStudioIntegration.html)
 
 #### 4. Writing and Editing Scripts with Visual Studio 2019
 - Creating a new script in Unity
 - Opening and editing scripts in Visual Studio[9]
-- Understanding Unity's scripting API[3]
+- Understanding Unity's scripting API[ [3]](https://docs.unity3d.com/Manual/VisualStudioIntegration.html)]
 - Debugging scripts in Visual Studio
 
 ### Additional Resources
